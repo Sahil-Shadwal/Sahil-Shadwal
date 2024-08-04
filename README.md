@@ -17,8 +17,13 @@
     <img src="https://raw.githubusercontent.com/Sahil-Shadwal/Sahil-Shadwal/output/github-contribution-grid-snake.svg" />
 </div>
 <picture>
+  <!-- This will be used if the user prefers dark mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahil-Shadwal/Sahil-Shadwal/output/github-contribution-grid-snake-dark.svg">
+  
+  <!-- This will be used if the user prefers light mode -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahil-Shadwal/Sahil-Shadwal/output/github-contribution-grid-snake.svg">
+  
+  <!-- Fallback image if none of the above conditions match -->
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sahil-Shadwal/Sahil-Shadwal/output/github-contribution-grid-snake.svg">
 </picture>
 
