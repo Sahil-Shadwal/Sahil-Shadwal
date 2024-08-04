@@ -1,10 +1,17 @@
-## Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+  ![](https://komarev.com/ghpvc/?username=Sahil-Shadwal&label=Profile%20Visits&color=blue&style=for-the-badge)
+
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+  
+  - 🔭 I’m currently a Under Graduate student .
+  - 🌱 I’m currently learning Web3 and Devops.
+  - 💬 Ask me about Web Dev & LLM's.
+  - 😄 Pronouns: He / Him
+  - ⚡ Fun fact: My chatbot is having a little identity crisis because its API requests are having a dramatic disagreement! 🤖💥
 
 
 
-
-
-# 🔭Actions
+## 🔭Actions
 
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Shadwal&theme=cobalt"/>
