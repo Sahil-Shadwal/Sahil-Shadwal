@@ -13,6 +13,33 @@ Python                   3 repos             ████░░░░░░░�
 Solidity                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
+
+> Language usage
+
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=Sahil-Shadwal&theme=gruvbox_light&layout=compact"/>
+</div>
+
+
+> Code analysis
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+# 🔭Actions
+
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Shadwal"/>
+</div>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/Sahil-Shadwal/Sahil-Shadwal/assets/github-contribution-grid-snake.svg" />
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahil-Shadwal/Sahil-Shadwal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahil-Shadwal/Sahil-Shadwal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sahil-Shadwal/Sahil-Shadwal/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--
 **Sahil-Shadwal/Sahil-Shadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
