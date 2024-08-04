@@ -9,6 +9,11 @@
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My chatbot is having a little identity crisis because its API requests are having a dramatic disagreement! 🤖💥
 
+<br><br>
+## 🌐 Check Out My Personal Website
+
+Discover more about my work and projects on my portfolio website: [shadwal.site](https://shadwal.site/) 🚀
+
 
 
 ## 🔭Actions
