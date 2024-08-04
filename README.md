@@ -3,7 +3,7 @@
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
-  - 🔭 I’m currently a Under Graduate student .
+  - 🔭 I’m currently an Under Graduate student .
   - 🌱 I’m currently learning Web3 and Devops.
   - 💬 Ask me about Web Dev & LLM's.
   - 😄 Pronouns: He / Him
