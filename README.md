@@ -25,7 +25,7 @@ Discover more about my work and projects on my portfolio website: [shadwal.site]
 ## &#x1f4c8; GitHub Stats
 <div align="center">
   <a href="https://github.com/Sahil-Shadwal/Sahil-Shadwal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shadwal&theme=dark&langs_count=3" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shadwal&theme=dark&langs_count=4" />
   </a>
   <a href="https://github.com/Sahil-Shadwal/Sahil-Shadwal">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahil-Shadwal&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Sahil's GitHub Stats" />
