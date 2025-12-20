@@ -12,7 +12,7 @@
 <br><br>
 ## 🌐 Check Out My Personal Website
 
-Discover more about my work and projects on my portfolio website: [shadwal.site](https://shadwal.site/) 🚀
+Discover more about my work and projects on my portfolio website: [shadwal.space](https://shadwal.space/) 🚀
 
 
 
