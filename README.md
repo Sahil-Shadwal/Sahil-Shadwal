@@ -14,15 +14,15 @@
 
 Discover more about my work and projects on my portfolio website: [shadwal.space](https://shadwal.space/) 🚀
 <br><br>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahil-Shadwal&theme=dark" />
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahil-Shadwal&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sahil-Shadwal&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sahil-Shadwal&theme=dark)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahil-Shadwal/Sahil-Shadwal/output/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahil-Shadwal/Sahil-Shadwal/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sahil-Shadwal/Sahil-Shadwal/output/github-contribution-grid-snake.svg">
-</picture> 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sahil-Shadwal&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sahil-Shadwal&theme=dark" />
+</p>
+
 <!--
 **Sahil-Shadwal/Sahil-Shadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
